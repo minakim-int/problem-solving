@@ -2,6 +2,8 @@
  * from https://www.acmicpc.net/problem/1259
  * find palindrome number
  * ignore first 0
+ * print "yes" for palindrome number
+ * print "no" for non-palindrome number
  * run until input only 0
 */
 
@@ -25,8 +27,8 @@ int main(){
 		}
 		count++;
 			int temp_count = count/2;
-			while(temp_count){ //131
-				while(temp_count){ //1
+			while(temp_count){
+				while(temp_count){
 					word.push(num%10);
 					num /= 10;
 					temp_count--;
