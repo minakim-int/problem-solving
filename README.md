@@ -4,4 +4,5 @@
 * algorithmic programming challenges
 * most of the problems are from https://www.acmicpc.net/.
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=applemint)](https://solved.ac/applemint)
 <a href="https://solved.ac/profile/applemint"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=applemint"></a><br>
