@@ -5,3 +5,5 @@
 * most of the problems are from https://www.acmicpc.net/.
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=applemint)](https://solved.ac/applemint)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=applemint&theme=cold)
+
